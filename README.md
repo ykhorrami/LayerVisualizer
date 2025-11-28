@@ -61,3 +61,12 @@ These are virtual layers used only for visualization and documentation of the ch
   - XS_M1 - Metal 1 cross-section
 
   - XS_OXIDE_M1 - Oxide around metal 1
+
+Key Differences:
+
+| Aspect |	Main Layers |	XSECTION Layers|
+| ------------- | ------------- | ------------- |
+| `Purpose` |	Actual fabrication	| Visualization only|
+| `Usage`	| Mask generation	| Documentation|
+| `Physical`	| Real structures	| Virtual representation|
+| `In GDS`	| Written to file	| Not written to masks|
