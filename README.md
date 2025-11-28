@@ -5,7 +5,8 @@ These settings are applied to the matplotlib plots, 3D views, cross-sections, an
 (Source: https://byucamacholab.github.io/Photonics-Bootcamp/pages/layer_stack.html)
 
 ## We write a code to change the following LayerViews:
-========
+
+
 LayerViews:
 
   Waveguide:
