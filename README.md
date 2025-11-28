@@ -283,4 +283,4 @@ LayerViews:
 
 
 ----
-## Can be viewed using Python directly (without .lyp format) as follow:
+## Can be viewed using Python directly (without .lyp format: https://github.com/ykhorrami/LayerVisualizer/blob/main/generic_tech.lyp) as follows:
