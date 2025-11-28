@@ -13,3 +13,7 @@ https://github.com/ykhorrami/LayerVisualizer/blob/main/LayerView.py
 ----
 ## To be viewed using Python directly as follows:
 ### (without .lyp format: https://github.com/ykhorrami/LayerVisualizer/blob/main/generic_tech.lyp)
+
+![alt text](https://github.com/ykhorrami/LayerVisualizer/blob/main/1.png)
+
+![alt text](https://github.com/ykhorrami/LayerVisualizer/blob/main/2.png)
