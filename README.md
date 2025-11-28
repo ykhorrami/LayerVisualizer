@@ -280,4 +280,7 @@ LayerViews:
     hatch_pattern: lightly left-hatched
     
     color: "#ff80a8"
-    
+
+
+----
+## Can be viewed using Python directly (without .lyp format) as follow:
