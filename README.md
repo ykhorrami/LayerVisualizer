@@ -4,7 +4,7 @@ This includes the color of each layer, the fill pattern, and whether the layer i
 These settings are applied to the matplotlib plots, 3D views, cross-sections, and the settings can be exported to file for use in KLayout, too.
 (Source: https://byucamacholab.github.io/Photonics-Bootcamp/pages/layer_stack.html)
 
-## We have written code to change the following LayerViews::
+## We have written code to change the following LayerViews:
 
 
 https://github.com/ykhorrami/LayerVisualizer/blob/main/LayerView.py
